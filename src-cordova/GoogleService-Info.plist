@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1011301475729-e55pg5p7mhvj7u1tmgg1tc1n81dj07jv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1011301475729-e55pg5p7mhvj7u1tmgg1tc1n81dj07jv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBadXwmC77dnV5noifpcEzgS6315maHdu8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1011301475729</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.test.notifications.push</string>
+	<key>PROJECT_ID</key>
+	<string>cloud-messaging-tut</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cloud-messaging-tut.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1011301475729:ios:f178f23f2d924476</string>
+	<key>DATABASE_URL</key>
+	<string>https://cloud-messaging-tut.firebaseio.com</string>
+</dict>
+</plist>
