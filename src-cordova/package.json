@@ -1,5 +1,5 @@
 {
-  "name": "za.co.smartpalm.triptraka.arcfyre",
+  "name": "com.test.notifications.push",
   "displayName": "PushApp",
   "version": "1.0.0",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",

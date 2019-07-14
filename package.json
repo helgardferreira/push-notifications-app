@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A Push Notifications Test App",
   "productName": "PushApp",
-  "cordovaId": "za.co.smartpalm.triptraka.arcfyre",
+  "cordovaId": "com.test.notifications.push",
   "author": "Helgard Ferreira <hrfer3@gmail.com>",
   "private": true,
   "scripts": {

@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1011301475729:android:09436645efd350bf",
         "android_client_info": {
-          "package_name": "za.co.smartpalm.triptraka.arcfyre"
+          "package_name": "com.test.notifications.push"
         }
       },
       "oauth_client": [
@@ -35,7 +35,7 @@
               "client_id": "1011301475729-h2gg97rbuia9trt98oebf5mbvn30uk7k.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "za.co.smartpalm.triptraka.arcfyre"
+                "bundle_id": "com.test.notifications.push"
               }
             }
           ]
