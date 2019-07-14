@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1011301475729",
+    "firebase_url": "https://cloud-messaging-tut.firebaseio.com",
+    "project_id": "cloud-messaging-tut",
+    "storage_bucket": "cloud-messaging-tut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011301475729:android:09436645efd350bf",
+        "android_client_info": {
+          "package_name": "za.co.smartpalm.triptraka.arcfyre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011301475729-uvqnncnrq8c8pk7jo90uit2pfaugdgvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRsv7ipJsc0UaZ8_KFyIbrfNicROX4r9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011301475729-uvqnncnrq8c8pk7jo90uit2pfaugdgvq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011301475729-h2gg97rbuia9trt98oebf5mbvn30uk7k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.smartpalm.triptraka.arcfyre"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
